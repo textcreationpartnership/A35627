@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mr. Benjamin Leech, brick-layer at the Old-Baily, the fourteenth day of October, 1682.</title>
+            <author>Leech, Benjamin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35627</idno>
+            <idno type="STC">Wing C953</idno>
+            <idno type="STC">ESTC R36277</idno>
+            <idno type="EEBO-CITATION">15626111</idno>
+            <idno type="OCLC">ocm 15626111</idno>
+            <idno type="VID">104250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104250)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mr. Benjamin Leech, brick-layer at the Old-Baily, the fourteenth day of October, 1682.</title>
+                  <author>Leech, Benjamin.</author>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Green,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Seditious libel) --  England.</term>
+               <term>Local elections --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="trial_narrative">
+            <pb n="1" facs="tcp:104250:1" rendition="simple:additions"/>
+            <head>THE CASE OF Mr. <hi>BENJAMIN LEECH</hi> Brick-layer, AT THE OLD-BAILY, THE Fourteenth day of <hi>October,</hi> 1682.</head>
+            <p>THE Poll for Election of Mayor for the year enſuing being continued by Adjournments from <hi>Michaelmas</hi>-day to the ſecond of <hi>October,</hi> one <hi>Benja<g ref="char:EOLhyphen"/>min Leech</hi> Brick-layer, being a Free-man and Livery-man of the City of <hi>London,</hi> came to <hi>Guild-Hall</hi> to Poll, wherein in Diſcourſe he was Charged to have ſaid to this Effect, <hi>That Sir</hi> William Prichard <hi>ſhould never be Lord Mayor, unleſs he came in by Stealth, as</hi> North <hi>and</hi> Rich <hi>were Sheriffs;</hi> for which he was without any Conſtable or other legal Officer, carried before Sir <hi>John Moor</hi> Lord Mayor, before whom he owned the Words, or Words to that effect; whereupon he was by the Lord Mayor Committed immediately to the <hi>Compter,</hi> from whence he was Bailed next day, giving his Recognizance, with Sureties, to appear at the next Seſſions at <hi>Guild-Hall;</hi> which Seſſions of the Peace being Adjourned to the 13th of <hi>October</hi> to <hi>Old-Baily,</hi> there was a Bill of Indictment preferred and found againſt the ſaid Mr. <hi>Leech,</hi> the Tenor of which followeth, <hi>(viz.)</hi>
+            </p>
+            <q>
+               <floatingText>
+                  <body>
+                     <div type="indictment">
+                        <div xml:lang="lat" type="version">
+                           <opener>
+                              <dateline>London. ſſ.</dateline>
+                           </opener>
+                           <p>J<g ref="char:V">Ʋ</g>ratores pro Domino Rege, ſuper Sacramentum ſuum prae<g ref="char:EOLhyphen"/>ſentant, quod <hi>Bejaminus Leech</hi> nuper de <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> Bricklayer, exiſtens perſona mala &amp; per<g ref="char:EOLhyphen"/>verſae diſpoſitionis, ſecundo die <hi>Octobris,</hi> Anno Regni domini noſtri <hi>Caroli</hi> ſecundi, Dei gratia <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiber<g ref="char:EOLhyphen"/>niae</hi> Regis fidei Defenſoris, <hi>&amp;c.</hi> triceſſimo quarto; machinans, &amp; falſe &amp; malicioſe in<g ref="char:EOLhyphen"/>tendens Pacem dicti Domini Regis infra Ci<g ref="char:EOLhyphen"/>vitatem <hi>London.</hi> inquietare &amp; perturbare, ac diverſas Differentias &amp; Diſſentiones inter Cives Civitatis predictae, &amp; alios Legeos &amp; Subditos dicti Domini Regis infra hoc Reg<g ref="char:EOLhyphen"/>num
+<pb n="2" facs="tcp:104250:2"/>
+                              <hi>Angliae,</hi> de &amp; concernens Electione Maioris Civitatis predictae, &amp; Vicecomitum Civitatis predictae &amp; Comitatus <hi>Middleſex,</hi> ſuſcitare, movere, &amp; procurare; &amp; quendam <hi>Willielmum Prichard</hi> Militem, adtunc, &amp; adhuc unum Aldermannorum Civitatis pre<g ref="char:EOLhyphen"/>dictae, &amp; adtunc in Electione pro Maiore Civitatis predictae, exiſtens pro uno Anno ad<g ref="char:EOLhyphen"/>tunc &amp; adhuc venturo; necnon quoſdam <hi>Dud<g ref="char:EOLhyphen"/>ley North</hi> Armigerum, &amp; <hi>Petrum Rich</hi> Ar<g ref="char:EOLhyphen"/>migerum, qui quidem <hi>Dudley North</hi> &amp; <hi>Pe<g ref="char:EOLhyphen"/>trus Rich</hi> nuper pro antea debito legitimo modo ſecundum antiquas Privilegias &amp; Con<g ref="char:EOLhyphen"/>ſuetudines Civitatis predictae, electi &amp; jura<g ref="char:EOLhyphen"/>ti fuerunt Vicecomites Civitatis <hi>London</hi> &amp; Comitatus <hi>Middleſex;</hi> &amp; Electionem prefat. Vicecomitum per Cives Civitatis predictae, factam in maximum odium, contemptum, &amp; ſcandalum, inferre ipſe predictus <hi>Benjaminus Leech</hi> poſtea, ſcilicet dicto ſecundo die <hi>Octobris</hi> Anno ſupradicto, apud <hi>London,</hi> videlicet, in Parochia ſancti <hi>Michaelis Baſ<g ref="char:EOLhyphen"/>ſiſhaw,</hi> in Warda de <hi>Baſſiſhaw, London.</hi> predict. in <hi>Guild-Hall</hi> Civitatis predictae, ibidem ad predict. Machinationes &amp; intentio<g ref="char:EOLhyphen"/>nes ſuas melius perficiend. habens Colloquium cum quodam <hi>Thoma Smyth</hi> in <hi>Guild-Hall</hi> predicta, adtunc &amp; ibidem falſo, illicite, in<g ref="char:EOLhyphen"/>juſte &amp; malicioſe dixit, retulit, &amp; in au<g ref="char:EOLhyphen"/>ditu diverſorum Legeorum &amp; Subditorum dicti Domini Regis, Civium Civitatis pre<g ref="char:EOLhyphen"/>dictae, publicavit, Quod <hi>Prichard</hi> (prefatum <hi>Willielmum Prichard</hi> Militem, innuendo) non foret Dominus Maior, (Dominus Maior Civitatis predictae innuendo) niſi foret Do<g ref="char:EOLhyphen"/>minus Maior illicite, &amp; per furtum, An<g ref="char:EOLhyphen"/>glice <hi>by Stealth,</hi> prout Vicecomites (prefa<g ref="char:EOLhyphen"/>tum <hi>Dudley North</hi> &amp; <hi>Petrum Rich,</hi> Vice<g ref="char:EOLhyphen"/>comites Civitatis predictae &amp; Comitatus pre<g ref="char:EOLhyphen"/>dictae innuendo) fuerunt Vicecomites Civi<g ref="char:EOLhyphen"/>tatis &amp; Comitatus predictae: Ad magnam diſturbationem Pacis dicti Domini Regis, ad magnum opprobrium Gubernatorum &amp; Gu<g ref="char:EOLhyphen"/>bernationis Civitatis predictae; necnon ad Scandalum, Opprobrium, &amp; Defamationem prefati <hi>Willielmi Prichard</hi> Militis, &amp; pre<g ref="char:EOLhyphen"/>fati <hi>Dudleý North</hi> &amp; <hi>Petri Rich</hi> debito modo electi Vicecomitum Civitatis &amp; Comi<g ref="char:EOLhyphen"/>tatus predictae, in malum exemplum omnium aliorum conſimili Caſu delinquentium, ac con<g ref="char:EOLhyphen"/>tra Pacem dicti Domini Regis nunc, Coro<g ref="char:EOLhyphen"/>nam &amp; Dignitatem ſuam, <hi>&amp;c.</hi>
+                           </p>
+                           <pb n="3" facs="tcp:104250:2"/>
+                           <p>
+                              <hi>Whereunto the Defendant offer'd the Plea following.</hi>
+                           </p>
+                           <p>Leech <hi>ads Domini Regis.</hi> ET predictus <hi>Benjaminus Leech,</hi> in propria perſona ſua venit &amp; defendit vim &amp; injuriam quan<g ref="char:EOLhyphen"/>do, <hi>&amp;c.</hi> &amp; omnem Contemptum &amp; quicquid, <hi>&amp;c.</hi> &amp; petit Judi<g ref="char:EOLhyphen"/>cium de Indictamento predicto, quia dicit quod Juratores pro Domino Rege predicto, qui Indictamentum illud fecerunt &amp; preſenta<g ref="char:EOLhyphen"/>verunt, adinde Retornati &amp; Impannellati fu<g ref="char:EOLhyphen"/>erunt per quoſdem <hi>Dudley North</hi> Armige<g ref="char:EOLhyphen"/>rum, &amp; <hi>Petrum Rich</hi> Armigerum, tanquam Vi<g ref="char:EOLhyphen"/>cecomites Civitatis <hi>London,</hi> quiquidem <hi>Dud<g ref="char:EOLhyphen"/>ley</hi> &amp; <hi>Petrus</hi> tempore Pannelli &amp; Retorna<g ref="char:EOLhyphen"/>tus illius per eos ſic facti, non fuerunt nec eorum alter fuit Vicecomites dictae Civitatis <hi>London,</hi> per quod idem Indictamentum ſic factum &amp; preſentatum per hujuſmodi Jura<g ref="char:EOLhyphen"/>tores ſic ut prefertur, Impannellatos &amp; Re<g ref="char:EOLhyphen"/>tornatos per Perſonas tunc non exiſtentes Vicecomites Civitatis predictae, vigore Sta<g ref="char:EOLhyphen"/>tuti in hujuſmodi Caſu editi &amp; proviſi va<g ref="char:EOLhyphen"/>cuum in Lege exiſtit &amp; nullius effectus, &amp; hoc paratus eſt verificare; unde petit Judici<g ref="char:EOLhyphen"/>um de Indictamento illo, &amp; quod Indicta<g ref="char:EOLhyphen"/>mentum illud Caſſetur, <hi>&amp;c.</hi>
+                           </p>
+                           <closer>
+                              <signed>W. Thompſon.</signed>
+                           </closer>
+                        </div>
+                        <pb n="1" facs="tcp:104250:1"/>
+                        <div xml:lang="eng" type="version">
+                           <opener>
+                              <dateline>London. ſſ.</dateline>
+                           </opener>
+                           <p>THe Jurors for our Lord the King, upon their Oaths do preſent, that <hi>Benjamin Leech</hi> late of <hi>London</hi> Brick-layer, being a Perſon of an evil and perverſe diſpoſition, the ſecond day of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> in the thirty fourth Year of the Reign of our Lord <hi>Charles</hi> the Second, by the Grace of God of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> King, Defender of the Faith, <hi>&amp;c.</hi> deviſing, and falſly and maliciouſly intend<g ref="char:EOLhyphen"/>ing the Peace of our ſaid Lord the King within the City of <hi>London</hi> to diſquiet and diſturb, and divers differences and diſſenti<g ref="char:EOLhyphen"/>ons amongſt the Citizens of the City afore<g ref="char:EOLhyphen"/>ſaid, and other the Liege People and Sub<g ref="char:EOLhyphen"/>jects of our ſaid Lord the King within this
+<pb n="2" facs="tcp:104250:2"/>Kingdom of <hi>England,</hi> of and concerning the Election of a Maior and Sheriffs of the City aforeſaid, and County of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> to ſtir up, move and procure; and one Sir <hi>William Prichard</hi> Knight, then, and yet one of the Aldermen of the City aforeſaid, then in Election of Maior of the City aforeſaid, being for one year then, and yet to come; and alſo one <hi>Dudley North</hi> Eſquire, and one <hi>Peter Rich</hi> Eſquire, which <hi>Dudley North</hi> and <hi>Peter Rich</hi> lately before that time, in a due and lawful manner, ac<g ref="char:EOLhyphen"/>cording to the ancient Priviledges and Cu<g ref="char:EOLhyphen"/>ſtoms of the City aforeſaid, were Elected and Sworn Sheriffs of the City of <hi>London</hi> and County of <hi>Middleſex;</hi> and the Electi<g ref="char:EOLhyphen"/>on of the aforeſaid Sheriffs by the Citi<g ref="char:EOLhyphen"/>zens of the City aforeſaid made, into the greateſt hatred contempt and ſcandal to bring, the aforeſaid <hi>Benjamin Leech</hi> after<g ref="char:EOLhyphen"/>wards, that is to ſay, the ſaid ſecond day of <hi>October,</hi> in the year aboveſaid, at <hi>Lon<g ref="char:EOLhyphen"/>don, viz.</hi> in the Pariſh of St. <hi>Michael Baſ<g ref="char:EOLhyphen"/>ſiſhaw,</hi> in the Ward of <hi>Baſſiſhaw London</hi> aforeſaid, in the <hi>Guild-Hall</hi> of the City aforeſaid, there his aforeſaid Contrivances and Intentions the better to perform, ha<g ref="char:EOLhyphen"/>ving Diſcourſe with one <hi>Thomas Smyth</hi> in <hi>Guild-Hall</hi> aforeſaid, then and there falſly, unlawfully, unjuſtly and maliciouſly did ſay, relate, and in the hearing of divers the Liege People and Subjects of our ſaid Lord the King, Citizens of the City aforeſaid, publiſh, That <hi>Prichard</hi> (the aforeſaid Sir <hi>William Prichard</hi> Knight, meaning) ſhould not be Lord Maior, (Lord Maior of the City aforeſaid meaning) unleſs he would be Lord Maior unlawfully, and by ſtealth, as the Sheriffs (the aforeſaid <hi>Dudley North</hi> and <hi>Peter Rich,</hi> Sheriffs of the City and County aforeſaid, meaning) were Sheriffs of the City and County aforeſaid: To the great diſturbance of the Peace of our ſaid Lord the King, to the great diſparagement of the Governours and Government of the City aforeſaid, and alſo the Scandal, Diſ<g ref="char:EOLhyphen"/>paragement and Defamation of the afore<g ref="char:EOLhyphen"/>ſaid Sir <hi>William Prichard,</hi> and the afore<g ref="char:EOLhyphen"/>ſaid <hi>Dudley North</hi> and <hi>Peter Rich,</hi> in due manner Elected Sheriffs of the City and County aforeſaid, to the evil example of all others in the like Caſe offending, and againſt the Peace of our ſaid Lord the King that now is, his Crown and Digni<g ref="char:EOLhyphen"/>ty, <hi>&amp;c.</hi>
+                           </p>
+                           <pb n="3" facs="tcp:104250:2"/>
+                           <p>
+                              <hi>Whereunto the Defendant offer'd the Plea following.</hi>
+                           </p>
+                           <p>Leech <hi>at the Suit of our Lord the King.</hi> ANd the aforeſaid <hi>Ben<g ref="char:EOLhyphen"/>jamin Leech,</hi> in his proper Perſon doth come and defend the Force and Injury, when, <hi>&amp;c.</hi> and all Contempt and whatſoever, <hi>&amp;c.</hi> and Prays Judgment of the Indictment aforeſaid, be<g ref="char:EOLhyphen"/>cauſe he ſaith the Jurors for our Lord the King aforeſaid, who that Indictment made and preſented, were thereunto Returned and Impannelled by one <hi>Dudley North</hi> Eſquire, and one <hi>Peter Rich</hi> Eſquire, as Sheriffs of the City of <hi>London,</hi> which <hi>Dudley</hi> and <hi>Peter</hi> at that time of the Pannel, and the Return thereof by them ſo made, were not, nor either of them was Sheriffs of the ſaid City of <hi>London,</hi> by which the ſaid In<g ref="char:EOLhyphen"/>dictment ſo made and preſented by ſuch Jurors ſo as aforeſaid Impannelled, and Re<g ref="char:EOLhyphen"/>turned by Perſons then not being Sheriffs of the City aforeſaid, by force of the Statute in the like Caſe made and provi<g ref="char:EOLhyphen"/>ded, is void in Law and of none Effect, and this he is ready to verifie; whereupon he Prayes Judgment of that Indictment, and that that Indictment might be quaſh<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi>
+                           </p>
+                           <closer>
+                              <signed>W. Thompſon.</signed>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Which ſaid Plea being ingroſſed in Parchment, and Signed by <hi>William Thompſon</hi> of the <hi>Middle-Temple,</hi> Councellor at Law, was on <hi>Saturday</hi> morning deliver'd into Court by the Defendant, who preſſed that the Plea might be received, and he and his Bail diſmiſſed from further Attendance for that time: Whereunto it was Anſwered, that the Court would conſider thereof till the Afternoon; In the Afternoon the Defendant at<g ref="char:EOLhyphen"/>tended with Mr. <hi>Thompſon</hi> his Councel, and Mr. <hi>Osborn</hi> of the <hi>Inner-Temple</hi> Councel<g ref="char:EOLhyphen"/>lor at Law attended for the King; the Court being Sate, the Plea was read, and then Mr. <hi>Osborne</hi> moved that the Plea ought not to be received, for that it was a new Plea without a precedent, and that it could not be Tryed or determined there; that it was a frivolous Plea, and ought not to be received, and ſo left it to the Judgment of the Bench. Upon which Mr. <hi>Thompſon</hi> allowed that ſuch a Plea had rarely been made uſe of, becauſe the like Caſe had rarely or never happened, but the reaſon thereof did juſtifie its Legality, and therefore preſſed that the Plea might be accept<g ref="char:EOLhyphen"/>ed; that it never was hitherto denyed to any-man to Plead to an Indictment of this nature, what he thought fit in his own Defence, eſpecially when he offers the ſame under Councels hand; that this was a ready way to determine who were legally Sheriffs, if the Plea was not good in Law, the Attorney General or the Kings Council might de<g ref="char:EOLhyphen"/>murr to it; that if the matter alleadged in the Plea was falſe, Iſſue might be taken thereon, which might ſoon be Tryed by a Jury; but if the matter ſhould appear to be true, there was not ſo much as any colour in Law for thoſe worthy Gentlemen Mr. <hi>North</hi> and Mr. <hi>Rich</hi> to take upon them to Return Juries; and therefore in the behalf of his Client, demanded again that the Plea might be received; the truth or validity there<g ref="char:EOLhyphen"/>of being not to be determined, till ſome Anſwer ſhould be made thereunto by Re<g ref="char:EOLhyphen"/>plication or Demurring in Writing. In Anſwer thereunto Mr. Juſtice <hi>Levinz</hi> (being the only Judge then preſent) was pleaſed to expreſs himſelf to this effect: That he deſired to ſee the Statute mentioned in the Plea, whereupon it was read, <hi>(viz.)</hi> The
+<pb n="4" facs="tcp:104250:3" rendition="simple:additions"/>11 <hi>H.</hi> 4.9. Then Mr. Juſtice <hi>Levinz</hi> ſpake to this effect: That this Statute was made to prevent the nomination of Juries to the Sheriffs; and though it be thereby provided that Pannels ſhould be Returned by the Sheriffs without denomination of any, yet he was of Opinion that it could not extend to the Caſe in hand, ſeeing the wor<g ref="char:EOLhyphen"/>thy Perſons that attended there, were owned as Sheriffs by Lord Maior, Mr. Recorder, and ſeveral Aldermen there preſent, and that he made no difference between Sheriffs <hi>de facto</hi> and <hi>de jure,</hi> and that theſe perſons being there ſo allowed, he muſt look upon them as Sheriffs <hi>de jure:</hi> That a Gaol-delivery had been held, wherein above forty Priſo<g ref="char:EOLhyphen"/>ners had been tryed; and that if this Plea ſhould be allowed, all the proceedings againſt them would come in queſtion: And then asked Mr. <hi>Thompſon,</hi> What if all the Felons at an Aſſizes ſhould inſiſt upon the like Plea, muſt all further proceedings ſtop, till the Sheriff goes home and fetch his Letters Patents? Whereupon Mr. <hi>Thompſon</hi> ſaid, That he thought in that Caſe ſuch ſtop could not be prevented, the Law being plain. Then Mr. Juſtice <hi>Levinz</hi> ſaid further to this effect, That he had conſidered of this matter; and that in his Judgment the Plea was a frivolous Plea, and ought not to be received; but yet he being the only Judge then preſent, he ſhould adviſe my Lord Maior and the reſt of the Bench to take Advice of all the Judges, before an abſolute Determination whether the Plea ought to be refuſed or not. Upon this Sir <hi>John Peak</hi> ſaid, We will not receive the Plea; with whom agreed Sir <hi>James Edwards,</hi> Sir <hi>James Smith,</hi> Sir <hi>Thomas Beckford,</hi> and Sir <hi>Robert Jefferies,</hi> and the Lord Maior alſo; Sir <hi>George Treby</hi> the Recorder ſaid, That he was of Opinion with Mr. Juſtice <hi>Levinz.</hi> Upon this <hi>Leech</hi> was preſſed to Plead Not Guilty: which he refuſed, ſaying ſeveral times, He would plead no other Plea than what he had offered. Then the Court gave him half an Hours time to adviſe with his Councel, who withdrew and adviſed accordingly, and returned with the ſame Reſolution not to alter his Plea, and tendered his Plea again to the Court, who again rejected it: And becauſe he would plead no other Plea, (he being firſt asked, Whether he would Submit to the Court and ask Pardon; and refuſing ſo to do, having as he apprehended done no wrong) was Fined Twenty Marks, and committed to <hi>Newgate</hi> till he ſhould pay the ſame; which was done that Night, and <hi>Leech</hi> thereby diſcharged.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>A. Green.</hi>
+            </p>
+            <pb facs="tcp:104250:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
